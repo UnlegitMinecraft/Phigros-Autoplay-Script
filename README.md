@@ -1,5 +1,6 @@
-# 基于[Phisap](https://github.com/kvarenzn/phisap)项目修改的Phigros Autoplay Script
+# 基于[昕辰Phigros-Autoplay-Script基于Phisap](https://github.com/ClankySun10936/Phigros-Autoplay-Script)项目修改的Phigros Autoplay Script
 
++ 已添加2.5.1支持
 
 + 使用ttkbootstrap优化了UI , 删去了无用的界面
 + 开箱即用,修复了原项目scrcpy存在的BUG
@@ -19,7 +20,7 @@
 
 
 ```bash
-git clone https://github.com/ClankySun10936/Phigros-Autoplay-Script
+git clone https://github.com/UnlegitMinecraft/Phigros-Autoplay-Script
 pip install -i requirements.txt
 python main.py
 ```
